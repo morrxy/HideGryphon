@@ -1,0 +1,6 @@
+## Author: morrxy@gmail.com
+## Interface: 80205
+## Title: HideGriffin
+## Version: 0.0.1
+
+core.lua
