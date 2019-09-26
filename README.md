@@ -1,0 +1,1 @@
+hide gryphon on action bar

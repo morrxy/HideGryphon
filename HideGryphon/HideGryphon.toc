@@ -1,6 +1,6 @@
 ## Author: morrxy@gmail.com
 ## Interface: 80205
-## Title: HideGriffin
+## Title: Hide Gryphon on action bar
 ## Version: 0.0.1
 
 core.lua
